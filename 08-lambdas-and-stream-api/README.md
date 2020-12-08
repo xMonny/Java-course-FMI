@@ -2,7 +2,7 @@
 
 ## Условие
 
-Ще създадем програма, която анализира и предоставя статистики върху реален `dataset`, съдържащ данни за [Spotify](https://www.spotify.com//) музикални парчета (тракове), издадени в периода 1921-2020 година. `Dataset`-ът е генериран чрез публичното Spotify Web API, съдържа над 160.000 записа и е взет от [kaggle](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks), онлайн платформата за machine learning и data science на Google. За да опростим парсването на CSV файла, сме го обработили предварително и може да го свалите [от тук](./resources/spotify-data.zip).
+Ще създадем програма, която анализира и предоставя статистики върху реален `dataset`, съдържащ данни за [Spotify](https://www.spotify.com//) музикални парчета (тракове), издадени в периода 1921-2020 година. `Dataset`-ът е генериран чрез публичното Spotify Web API, съдържа над 160.000 записа и е взет от [kaggle](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks), онлайн платформата за machine learning и data science на Google.
 
 Всеки ред от файла съдържа информация за един Spotify трак, в следния формат:
 
